@@ -6,8 +6,7 @@ public class Main {
         Silvanovich silvanovich = new Silvanovich();
         System.out.println("Methods of Silvanovich Class: ");
         silvanovich.think("I am Silvanovich and I am think");
-        silvanovich.sleep(1, 2);
-        silvanovich.live(1, 2);
+
 
         JavaTeacher javaTeacher = new JavaTeacher();
         System.out.println("Methods of JavaTeacher Class:");
